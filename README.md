@@ -27,8 +27,7 @@ CHANGES
 
 INSTALL
 1. Unzip folder of this zip over the game's folder.
-2. 
-3. Start Quest Link / Virtual Desktop / SteamVR first (it must be the OpenXR runtime), then the game.
+2. Start Quest Link / Virtual Desktop / SteamVR first (it must be the OpenXR runtime), then the game.
 
 HOW IT PLAYS
 -
