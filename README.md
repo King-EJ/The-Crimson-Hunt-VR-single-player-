@@ -9,21 +9,22 @@ THE CRIMSON HUNT VR  -  VR mod for "The Crimson Hunt" (Unity 6000.3.11, IL2CPP x
 Version 0.1.9 (test build on Quest 3 VDXR).
 
 CHANGES
--The task marker (hold R3) floats by the left hand too.
+-
+- The task marker (hold R3) floats by the left hand too.
 
--Left hand HUD left / right: VR settings menu, or [UI] LeftHandHudShift (- = further left, + = right; past the hand it hangs on the right side of the hand).
+- Left hand HUD left / right: VR settings menu, or [UI] LeftHandHudShift (- = further left, + = right; past the hand it hangs on the right side of the hand).
 
--Subtitles: the whole speech box of the dialogue now goes to the left hand
+- Subtitles: the whole speech box of the dialogue now goes to the left hand
 
--Ammo and the partner icon float to the right of the weapon in your hand ([UI] RightHandHud,
+- Ammo and the partner icon float to the right of the weapon in your hand ([UI] RightHandHud,
 
--Crosshair hidden in first person - the laser shows where you aim ([Aiming] HideCrosshair). 
+- Crosshair hidden in first person - the laser shows where you aim ([Aiming] HideCrosshair). 
 
--Fog and light: [Look] Fog = Game / Light / Off, FogDistance (how far you see in light fog),
+- Fog and light: [Look] Fog = Game / Light / Off, FogDistance (how far you see in light fog),
 
--Brightness (-3 .. +3). All in the VR settings menu under "Fog and light".
+- Brightness (-3 .. +3). All in the VR settings menu under "Fog and light".
 
--Option to swap RB (right grip) and LT ([Input] SwapRBAndLT, also in the VR settings menu).
+- Option to swap RB (right grip) and LT ([Input] SwapRBAndLT, also in the VR settings menu).
 
 INSTALL
 1. Unzip folder of this zip over the game's folder.
